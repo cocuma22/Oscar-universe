@@ -9,6 +9,8 @@ By clicking on each planet-box, users can delve deeper into each movie. Upon sel
 * Film details: title, director, genre, plot
 * Oscar details: nominations and awards
 * Film trailer
+
+![Internal faces of planet-box of the movie "Dear Basketball"](planet-box-ex.png)
   
 At the top left of the screen, a GUI explains to users how to interact with the system and enables them to adjust the rotation speed of the box-planet faces and the volume of the trailer and soundtrack.
 
