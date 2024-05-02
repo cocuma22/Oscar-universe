@@ -1,0 +1,262 @@
+{
+    "movies": [
+        {
+            "name": "The shape of water",
+            "director": "Guillermo del Toro",
+            "genres": 
+                    [
+                        "adventure", 
+                        "drama", 
+                        "fantasy"
+                    ],
+            "plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+            "awards": 
+                    [
+                        "Best picture",
+                        "Directing",
+                        "Production design",
+                        "Music (original score)"
+                    ],
+            "nominations": 13,
+            "ID": "water"
+        }, 
+        {
+            "name": "Darkest hour",
+            "director": "Joe Wright",
+            "genres": 
+                    [
+                        "biography", 
+                        "drama", 
+                        "history"
+                    ],
+            "plot": "In May 1940, the fate of Western Europe hangs on British Prime Minister Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean a humiliating defeat for Britain and its empire.",
+            "awards": 
+                    [
+                        "Actor in a leading role",
+                        "Makeup and hairstyling"
+                    ],
+            "nominations": 6, 
+            "ID": "hour"
+        },
+        {
+            "name": "Three billboards outside Ebbing, Missouri",
+            "director": "Martin McDonagh",
+            "genres": 
+                    [ 
+                        "crime", 
+                        "drama"
+                    ],
+            "plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+            "awards": 
+                    [
+                        "Actress in a leading role",
+                        "Actor in a supporting role"
+                    ],
+            "nominations": 7, 
+            "ID": "billboards"
+        }, 
+        {
+            "name": "I, Tonya",
+            "director": "Craig Gillspie",
+            "genres": 
+                    [
+                        "biography", 
+                        "comedy", 
+                        "drama"
+                    ],
+            "plot": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.",
+            "awards": 
+                    [
+                        "Actress in a supporting role"
+                    ],
+            "nominations": 3, 
+            "ID": "tonya"
+        }, 
+        {
+            "name": "Get out",
+            "director": "Jordan Peele",
+            "genres": 
+                    [
+                        "horror", 
+                        "mystery", 
+                        "thriller"
+                    ],
+            "plot": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+            "awards": 
+                    [
+                        "Writing (original screenplay)"
+                    ],
+            "nominations": 4, 
+            "ID": "out"
+        }, 
+        {
+            "name": "Call me by your name",
+            "director": "Luca Guadagnino",
+            "genres": 
+                    [
+                        "drama", 
+                        "romance"
+                    ],
+            "plot": "In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant.",
+            "awards": 
+                    [
+                        "Writing (adapted screenplay)"
+                    ],
+            "nominations": 4, 
+            "ID": "name"
+        }, 
+        {
+            "name": "A fantastic woman",
+            "director": "Sebastián Lelio",
+            "genres": 
+                    [
+                        "drama"
+                    ],
+            "plot": "Marina, a transgender woman who works as a waitress and moonlights as a nightclub singer, is bowled over by the death of her older boyfriend.",
+            "awards": 
+                    [
+                        "Foreign language film"
+                    ],
+            "nominations": 1, 
+            "ID": "woman"
+        }, 
+        {
+            "name": "Coco",
+            "director": "Lee Unkrich, Adrian Molina",
+            "genres": 
+                    [
+                        "animation", 
+                        "adventure", 
+                        "comedy"
+                    ],
+            "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "awards": 
+                    [
+                        "Animated feature film",
+                        "Music (original song)"
+                    ],
+            "nominations": 2, 
+            "ID": "coco"
+        }, 
+        {
+            "name": "Blade Runner 2049",
+            "director": "Denis Villeneuve",
+            "genres": 
+                    [
+                        "drama", 
+                        "mystery", 
+                        "sci-fi"
+                    ],
+            "plot": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+            "awards": 
+                    [
+                        "Cinematography",
+                        "Visual effects"
+                    ],
+            "nomine": 5, 
+            "ID": "runner"
+        }, 
+        {
+            "name": "Dunkirk",
+            "director": "Christopher Nolan",
+            "genres": 
+                    [
+                        "action", 
+                        "drama", 
+                        "history"
+                    ],
+            "plot": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.",
+            "awards": 
+                    [
+                        "Film editing",
+                        "Sound editing",
+                        "Sound mixing"
+                    ],
+            "nominations": 8, 
+            "ID": "dunkirk"
+        }, 
+        {
+            "name": "Phantom Thread",
+            "director": "Paul Thomas Anderson",
+            "genres": 
+                    [
+                        "drama", 
+                        "romance"
+                    ],
+            "plot": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+            "awards": 
+                    [
+                        "Costume design"
+                    ],
+            "nominations": 6, 
+            "ID": "thread"
+        }, 
+        {
+            "name": "Icarus",
+            "director": "Bryan Fogel",
+            "genres": 
+                    [
+                        "documentary", 
+                        "sport", 
+                        "thriller"
+                    ],
+            "plot": "When Bryan Fogel sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller involving dirty urine, unexplained death and Olympic Gold-exposing the biggest scandal in sports history.",
+            "awards": 
+                    [
+                        "Documentary (feature)"
+                    ],
+            "nominations": 1, 
+            "ID": "icarus"
+        }, 
+        {
+            "name": "Heaven is a traffic jam on the 405",
+            "director": "Frank Stiefel",
+            "genres": 
+                    [
+                        "documentary", 
+                        "short", 
+                        "biography"
+                    ],
+            "plot": "A brilliant but tortured 56-year-old artist channels her depression and anxiety into her work.",
+            "awards": 
+                    [
+                        "Documentary (short subject)"
+                    ],
+            "nominations": 1, 
+            "ID": "jam"
+        }, 
+        {
+            "name": "The silent child",
+            "director": "Chris Overton",
+            "genres": 
+                    [
+                        "short", 
+                        "drama"
+                    ],
+            "plot": "A deaf 6-year-old girl named Libby lives in a world of silence until a caring social worker teaches her to use sign language to communicate.",
+            "awards": 
+                    [
+                        "Short film (live action)"
+                    ],
+            "nominations": 1, 
+            "ID": "child"
+        }, 
+        {
+            "name": "Dear basketball",
+            "director": "Glen Keane",
+            "genres": 
+                    [
+                        "animation", 
+                        "short", 
+                        "biography"
+                    ],
+            "plot": "An animated telling of Kobe Bryant's poem 'Dear Basketball'.",
+            "awards": 
+                    [
+                        "Short film (animated)"
+                    ],
+            "nominations": 1, 
+            "ID": "basket"
+        }
+    ]
+}

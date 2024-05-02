@@ -1,0 +1,18 @@
+newmtl D1201A057:_xiaojingren___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gold.png
+Ni 1.50
+Ks 1.00 1.00 1.00
+Ns 37.00
+newmtl D1201A057:_xiaojingren___Default2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brown.png
+Ni 1.50
+Ks 0.93 0.93 0.93
+Ns 42.00
